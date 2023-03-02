@@ -26,8 +26,8 @@ The light is either Green, Yellow or Red. It can never be two colors at the same
 
 There is a special case where emergency services, like police and ambulances can temporarily override a traffic light state.\
 They can remotely press a button and put the traffic light in an "emergency state".
-This means the Yellow light blinks 5 times. This gives them the opportunity to 
-Are blinking the
+This means the Yellow light blinks 5 times. This gives them the opportunity to safely pass the crossing.
+
 
 ![Visualization](/docs/visualization.gif)
 
