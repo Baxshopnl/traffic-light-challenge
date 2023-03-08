@@ -12,6 +12,10 @@ and after that:
 This will run the app in the development mode.\
 Open [http://localhost:1317](http://localhost:1317) to view it in your browser.
 
+You can also view a live demo here:
+View live demo here: [https://radiant-valkyrie-f763d4.netlify.app/](https://radiant-valkyrie-f763d4.netlify.app/)
+
+
 
 # Traffic Light Challenge
 
