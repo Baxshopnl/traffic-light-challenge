@@ -54,35 +54,35 @@ button {
   border-radius: 50%;
   margin: 10px;
   box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.3);
-  filter: brightness(50%);
+  filter: brightness(40%);
   transition: filter 0.2s ease-out;
 }
 
-.red {
+.light.red {
   background-color: #e74c3c;
 }
 
-.yellow {
+.light.yellow {
   background-color: #f1c40f;
 }
 
-.green {
+.light.green {
   background-color: #2ecc71;
 }
 
-.active {
+.light.active {
   filter: brightness(100%);
   transition: filter 0.2s ease-in;
   box-shadow: 0px 0px 10px 2px rgba(255, 255, 255, 0.5);
 }
 
-.blinking {
+.light.blinking {
   animation: blink 0.5s alternate 10;
 }
 
 @keyframes blink {
   from {
-    filter: brightness(50%);
+    filter: brightness(40%);
   }
   to {
     filter: brightness(100%);
