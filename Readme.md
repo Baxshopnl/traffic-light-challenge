@@ -1,3 +1,22 @@
+# Finite State Machine Traffic Light by McVenco
+
+## Download and run project
+To run this project locally, download/clone this repository, then in the project directory, run:
+### `npm install`
+
+and after that:
+### `npm start`
+
+(make sure you have Node.JS installed)
+
+This will run the app in the development mode.\
+Open [http://localhost:1317](http://localhost:1317) to view it in your browser.
+
+You can also view a live demo here:
+View live demo here: [https://radiant-valkyrie-f763d4.netlify.app/](https://radiant-valkyrie-f763d4.netlify.app/)
+
+
+
 # Traffic Light Challenge
 
 ![Traffic Light](/docs/traffic-light.png)
